@@ -23,7 +23,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/ecommerce-mern.git
+git clone https://github.com/tusher1612/Ecommerce-Website.git
 Install Dependencies:
 
 For the backend:

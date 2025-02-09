@@ -22,7 +22,7 @@ Admin Dashboard: Manage products, users, and orders.
 
 bash
 Copy code
-git clone https://github.com/tusher1612/Ecommerce-Website.git
+git clone git@github.com:tusher1612/Ecommerce-Website.git
 
 **Install Dependencies:**
 <br>
